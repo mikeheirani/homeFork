@@ -27,7 +27,8 @@ const Config = {
                 ["BookStack", "http://192.168.0.36/login"],
                 ["Jackett", "http://192.168.0.36:9117"],
                 ["Sonarr", "http://192.168.0.36:8989"],
-                ["Lychee", "http://192.168.0.36:8060"]
+                ["Lychee", "http://192.168.0.36:8060"],
+                ["Gitlab", "http://192.168.0.36:9080"]
             ]
         ],
         [
